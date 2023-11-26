@@ -6,3 +6,4 @@
 
 1. [Matrix Multiplication, 0 points](https://github.com/Lilpank/HPC/blob/main/MutMul.ipynb)
 2. [VectorSum, 0 points](https://github.com/Lilpank/HPC/blob/main/SumVector.ipynb)
+3. [Bilateral filtering, 2 points](https://github.com/Lilpank/HPC/blob/main/Bilateral_Filtering.ipynb)
